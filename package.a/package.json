@@ -1,0 +1,21 @@
+{
+  "name": "com.package.a",
+  "displayName": "Package Unity A",
+  "version": "0.1.0",
+  "unity": "2019.4",
+  "description": "Official Package A for Unity3D game engine",
+  "keywords": [
+    "third party"
+  ],
+  "author": {
+    "name": "My Company Inc",
+    "url": "https://accelbyte.io/"
+  },
+  "changelogUrl": "https://github.com/MHabiburRahman7/AB-plugin-master/releases",
+  "documentationUrl": "",
+  "hideInEditor": false,
+  "category": "editor extensions",
+  "homepage": "https://accelbyte.io/",
+  "bugs": "",
+  "type": "library"
+}
