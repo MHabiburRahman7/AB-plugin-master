@@ -1,0 +1,6 @@
+[submodule "acelbyte-unity-sdk"]
+	path = acelbyte-unity-sdk
+	url = https://github.com/AccelByte/accelbyte-unity-sdk
+[submodule "accelbyte-unity-networking"]
+	path = accelbyte-unity-networking
+	url = https://github.com/AccelByte/accelbyte-unity-networking

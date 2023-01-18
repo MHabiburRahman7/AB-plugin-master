@@ -1,9 +1,9 @@
 {
-  "name": "com.package.b",
-  "displayName": "Package Unity B",
+  "name": "com.master.package",
+  "displayName": "Package Unity Master",
   "version": "0.1.0",
   "unity": "2019.4",
-  "description": "Official Package B for Unity3D game engine",
+  "description": "Testing Package A for Unity3D game engine",
   "keywords": [
     "third party"
   ],
